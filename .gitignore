@@ -1,0 +1,22 @@
+# Ignore all node_modules directories (if you're using Node.js)
+node_modules/
+
+# Ignore all .env files (for environment variables)
+.env
+
+# Ignore all log files
+*.log
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore any backup files created by text editors
+*~
