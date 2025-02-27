@@ -15,6 +15,7 @@ export default defineConfig({
         text: 'Blogs',
         items: [
           { text: 'Development Tools', link: '/md_files/crops' },
+          { text: 'Locale Configuration', link: '/md_files/locale' },
         ]
       }
     ],
