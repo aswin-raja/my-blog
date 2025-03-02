@@ -8,18 +8,18 @@ hero:
   tagline: ""
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Crops Dev Tool
+      link: /md_files/crops
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Locale Setting
+      link: /md_files/locale
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# features:
+#   - title: Feature A
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature B
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
