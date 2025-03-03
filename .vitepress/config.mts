@@ -9,7 +9,10 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
     ],
-
+    search: {
+      provider: 'local',
+    },
+    outline: [2, 3],
     sidebar: [
       {
         text: 'Blogs',

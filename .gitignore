@@ -1,5 +1,6 @@
 # Ignore all node_modules directories (if you're using Node.js)
 node_modules/
+.vitepress/
 
 # Ignore all .env files (for environment variables)
 .env
