@@ -19,7 +19,14 @@ export default defineConfig({
         items: [
           { text: 'Development Tools', link: '/md_files/crops' },
           { text: 'Locale Configuration', link: '/md_files/locale' },
+         
+        ]
+      },
+      {
+        text:'Commands',
+        items:[
           { text: 'Linux Commands', link: '/md_files/linux' },
+          { text: 'Tmux', link: '/md_files/tmux' },
         ]
       }
     ],
