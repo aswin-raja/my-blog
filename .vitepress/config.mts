@@ -23,6 +23,13 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Javascript',
+        items: [
+          { text: 'Js basics', link: '/md_files/java_script' },
+         
+        ]
+      },
+      {
         text:'Commands',
         items:[
           { text: 'Linux Commands', link: '/md_files/linux' },
