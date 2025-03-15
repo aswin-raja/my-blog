@@ -46,7 +46,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/aswin-raja' }
+      { icon: 'linkedin', link: 'https://github.com/aswin-raja' },
+      { icon: 'github', link: 'https://github.com/aswin-raja' },
+      
     ]
   }
 })
