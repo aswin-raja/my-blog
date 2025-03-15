@@ -19,19 +19,26 @@ export default defineConfig({
         items: [
           { text: 'Development Tools', link: '/md_files/crops' },
           { text: 'Locale Configuration', link: '/md_files/locale' },
-         
+
         ]
       },
       {
-        text: 'Javascript',
+        text: 'Documents',
         items: [
-          { text: 'Js basics', link: '/md_files/java_script' },
-         
+          {
+            text: 'Programing', items: [
+              {
+                  text:"C Lang",
+                  link: "/md_files/programing/c-lang"
+              }
+            ]
+          },
+
         ]
       },
       {
-        text:'Commands',
-        items:[
+        text: 'Commands',
+        items: [
           { text: 'Linux Commands', link: '/md_files/linux' },
           { text: 'Tmux', link: '/md_files/tmux' },
         ]
