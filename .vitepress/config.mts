@@ -30,7 +30,11 @@ export default defineConfig({
               {
                   text:"C Lang",
                   link: "/md_files/programing/c-lang"
-              }
+              },
+              {
+                text:"Python",
+                link: "/md_files/programing/python"
+            }
             ]
           },
 
