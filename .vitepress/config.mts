@@ -19,7 +19,7 @@ export default defineConfig({
         items: [
           { text: 'Development Tools', link: '/md_files/crops' },
           { text: 'Locale Configuration', link: '/md_files/locale' },
-
+          { text: 'Template Conf', link: '/md_files/template_conf' },
         ]
       },
       {
